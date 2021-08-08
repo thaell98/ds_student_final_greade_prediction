@@ -4,7 +4,9 @@
 
 ## Code and Resources Used
 **Python Version:** 3.7.6  
+
 **Packages:** pandas, numpy, sklearn, matplotlib, seaborn
+
 **Data source:** https://www.kaggle.com/larsen0966/student-performance-data-set
 
 ## Data Overview
